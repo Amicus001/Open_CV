@@ -1,0 +1,81 @@
+Robotika
+
+Halaman
+Pembicaraan
+Baca
+Sunting
+Sunting sumber
+Lihat riwayat
+
+Perkakas
+Dari Wikipedia bahasa Indonesia, ensiklopedia bebas
+
+Robot di pabrik
+
+Sistem tangan robot
+Robotika adalah satu cabang teknologi yang berhubungan dengan desain, konstruksi, operasi, disposisi struktural, pembuatan, dan aplikasi dari robot.[1] Robotika terkait dengan ilmu pengetahuan bidang elektronika, mesin, mekanika, dan perangkat lunak komputer.[2]
+
+Pemikiran tentang pembuatan mesin yang dapat bekerja sendiri telah ada sejak Era Klasik, tetapi riset mengenai penggunaannya tidak berkembang secara berarti sampai abad ke-20.[3] Kini, banyak robot melakukan pekerjaan yang berbahaya bagi manusia seperti menjinakkan bom, menjelajahi kapal karam, dan pertambangan.
+
+Etimologi
+Kata robotika berasal dari kata robot, yang diperkenalkan kepada publik oleh penulisa asal Ceko bernama Karel Čapek dalam dramanya R.U.R. (Rossum's Universal Robots), yang diterbitkan pada tahun 1920.[4] Permainan dimulai di sebuah pabrik yang membuat manusia buatan yang disebut robot, makhluk yang bisa disalahartikan sebagai manusia–sangat mirip dengan ide-ide modern android. Karel Čapek sendiri tidak menciptakan kata itu. Dia menulis sebuah surat pendek yang mengacu pada sebuah etimologi dalam Oxford English Dictionary di mana dia menyebut saudaranya Josef Čapek sebagai pencetus sebenarnya.[4]
+
+Menurut Oxford English Dictionary, kata robotika pertama kali digunakan di media cetak oleh Isaac Asimov, dalam cerita pendek fiksi ilmiahnya "Pembohong!" , yang diterbitkan pada bulan Mei 1941 dalam Karya Fiksi-ilmiah yang Mencengangkan. Asimov tidak menyadari bahwa dialah yang menciptakan istilah itu; karena ilmu dan teknologi perangkat listrik adalah elektronik, ia menganggap robotika sudah mengacu pada ilmu dan teknologi robot. Dalam beberapa karya Asimov lainnya, ia menyatakan bahwa penggunaan pertama kata robotika adalah dalam cerita pendeknya Runaround,[5][6] di mana ia memperkenalkan konsepnya tentang Tiga Hukum Robotika. Namun, publikasi asli "Pembohong!" mendahului "Runaround" selama 10 bulan, jadi yang pertama umumnya disebut sebagai asal kata.
+
+Penggunaan
+Karena semakin banyak robot dirancang untuk tugas-tugas tertentu, metode klasifikasi ini menjadi lebih relevan. Misalnya, banyak robot dirancang untuk pekerjaan perakitan, yang mungkin tidak mudah beradaptasi untuk aplikasi lain. Mereka disebut sebagai "robot perakitan". Untuk pengelasan jahitan, beberapa pemasok menyediakan sistem pengelasan lengkap dengan robot yaitu peralatan pengelasan beserta fasilitas penanganan material lainnya seperti meja putar, dll sebagai satu kesatuan. Sistem robot terintegrasi semacam itu disebut "robot pengelasan" meskipun unit manipulator diskritnya dapat disesuaikan dengan berbagai tugas. Beberapa robot dirancang khusus untuk manipulasi beban berat, dan diberi label sebagai "robot tugas berat".[7]
+
+Penggunaan dan potensial saat ini meliputi:
+
+Robot militer.
+Robot industri. Robot semakin banyak digunakan di bidang manufaktur (sejak 1960-an). Menurut data Robotic Industries Association AS, pada tahun 2016 industri otomotif menjadi pelanggan utama robot industri dengan 52% dari total penjualan.[8] Dalam industri otomotif, mereka dapat berjumlah lebih dari setengah "tenaga kerja". Bahkan ada pabrik "mati lampu" seperti pabrik pembuatan keyboard IBM di Texas yang sepenuhnya otomatis pada awal tahun 2003.[9]
+Cobot (robot kolaboratif).[10]
+Robot konstruksi. Robot konstruksi dapat dipisahkan menjadi tiga jenis: robot tradisional, robot lengan, dan robot eksoskeleton.[11]
+Robot pertanian (AgRobots).[12] Penggunaan robot di bidang pertanian terkait erat dengan konsep pertanian presisi berbantuan AI dan penggunaan drone.[13] Penelitian 1996-1998 juga membuktikan bahwa robot dapat melakukan tugas menggiring.[14]
+Robot medis yang bervariasi tipenya. Seperti da Vinci Surgical System dan Hospi.
+Otomatisasi dapur. Contoh otomatisasi dapur komersial (dalam memasak) adalah Flippy (burger), Zume Pizza (pizza), Cafe X (kopi), Makr Shakr (koktail), Frobot (yogurt beku), Sally (salad),[15] Rotimatic (panggangan roti pipih).[16] Contoh lainnya adalah Boris (cuci piring).[17]
+Pertarungan robot untuk olahraga–hobi atau acara olahraga di mana dua atau lebih robot bertarung di arena untuk melumpuhkan satu sama lain. Ini telah berkembang dari hobi di tahun 1990-an menjadi beberapa serial TV di seluruh dunia.
+Pembersihan area yang terkontaminasi, seperti limbah beracun atau fasilitas nuklir.[18]
+Robot domestik.
+Robot nano.
+Robotika kawanan.[19]
+Drone otonom.
+Penanda garis lapangan olahraga.
+Pekerjaan
+Robotika adalah komponen penting di banyak lingkungan manufaktur modern. Seiring dengan meningkatnya penggunaan robot oleh pabrik, jumlah pekerjaan yang berhubungan dengan robotik tumbuh dan diamati terus meningkat.[20] Penggunaan robot di industri telah meningkatkan produktivitas dan penghematan efisiensi dan biasanya dilihat sebagai investasi jangka panjang bagi para dermawan. Sebuah makalah oleh Michael Osborne dan Carl Benedikt Frey menemukan bahwa 47% pekerjaan AS berisiko terhadap otomatisasi "selama beberapa tahun yang tidak ditentukan.[21] Klaim ini telah dikritik dengan alasan bahwa kebijakan sosial tersebut menyebabkan kasus pengangguran meningkat.[22] Dalam artikel tahun 2016 dalam The Guardian, Stephen Hawking menyatakan bahwa "Otomasi pabrik telah menghancurkan pekerjaan di manufaktur tradisional, dan munculnya kecerdasan buatan kemungkinan akan memperluas penghancuran pekerjaan ini jauh ke kelas menengah, dengan hanya yang paling peduli, kreatif. atau peran pengawasan yang tersisa".[23]
+
+Implikasi keselamatan dan kesehatan kerja
+Makalah diskusi yang dibuat oleh EU-OSHA menyoroti bagaimana penyebaran robotika menghadirkan peluang dan tantangan untuk keselamatan dan kesehatan kerja (K3).[24]
+
+Manfaat K3 terbesar yang berasal dari penggunaan robotika yang lebih luas harus menggantikan orang yang bekerja di lingkungan yang tidak sehat atau berbahaya. Di ruang angkasa, pertahanan, keamanan, atau industri nuklir, tetapi juga dalam logistik, pemeliharaan, dan inspeksi, robot otonom sangat berguna dalam menggantikan pekerja manusia yang melakukan tugas berbahaya atau tidak aman, sehingga menghindari paparan pekerja terhadap agen dan kondisi berbahaya dan mengurangi risiko fisik, ergonomis dan psikososial. Misalnya, robot sudah digunakan untuk melakukan tugas yang berulang dan monoton, untuk menangani bahan radioaktif atau untuk bekerja di atmosfer yang mudah meledak. Di masa depan, banyak tugas lain yang sangat berulang, berisiko, atau tidak menyenangkan akan dilakukan oleh robot di berbagai sektor seperti pertanian, konstruksi, transportasi, perawatan kesehatan, pemadam kebakaran, atau layanan kebersihan.[25]
+
+Meskipun kemajuan ini, ada keterampilan tertentu yang manusia akan lebih cocok daripada mesin untuk beberapa waktu yang akan datang dan pertanyaannya adalah bagaimana mencapai kombinasi terbaik dari keterampilan manusia dan robot. Keunggulan robotika meliputi pekerjaan tugas berat dengan presisi dan pengulangan, sedangkan keunggulan manusia meliputi kreativitas, pengambilan keputusan, fleksibilitas, dan kemampuan beradaptasi. Kebutuhan untuk menggabungkan keterampilan yang optimal telah menghasilkan robot kolaboratifdan manusia berbagi ruang kerja bersama lebih dekat dan mengarah pada pengembangan pendekatan dan standar baru untuk menjamin keamanan "penggabungan manusia-robot". Beberapa negara Eropa memasukkan robotika dalam program nasional mereka dan mencoba untuk mempromosikan kerjasama yang aman dan fleksibel antara robot dan operator untuk mencapai produktivitas yang lebih baik. Misalnya, Institut Federal Jerman untuk Keselamatan dan Kesehatan Kerja (BAuA) menyelenggarakan lokakarya tahunan dengan topik "kolaborasi manusia-robot".
+
+Di masa depan, kerjasama antara robot dan manusia akan beragam, dengan robot meningkatkan otonomi mereka dan kolaborasi manusia-robot mencapai bentuk yang sama sekali baru. Pendekatan dan standar teknis saat ini[26][27] bertujuan untuk melindungi karyawan dari risiko bekerja dengan robot kolaboratif yang harus direvisi.
+
+Jingga
+
+Halaman
+Pembicaraan
+Baca
+Sunting
+Sunting sumber
+Lihat riwayat
+
+Perkakas
+Dari Wikipedia bahasa Indonesia, ensiklopedia bebas
+Jingga (Oranye)
+ 
+About these coordinates    Koordinat warna
+Triplet hex	#FF6600
+sRGBB    (r, g, b)	(255, 102, 0)
+CMYKH   (c, m, y, k)	(0, 60, 100, 0)
+HSV       (h, s, v)	(24°, 100%, 100%)
+Sumber	PerBang.dk
+B: Dinormalkan ke [0–255] (bita)
+H: Dinormalkan ke [0–100] (ratusan)
+Jingga (serapan dari Jawa: ꦗꦶꦁ​ꦒ, translit. jingga) atau oranye (serapan dari Belanda: oranje) adalah suatu warna yang terjadi antara merah dan kuning dalam spektrum terlihat pada panjang gelombang sekitar 620-585 nanometer. Dia memiliki warna yang sama dengan jeruk.
+
+Dengan bahan pewarna alami seperti cat atau krayon, oranye adalah warna sekunder yang dapat diperoleh dari warna primer dengan mencampur merah (atau lebih tepat lagi, magenta) dan kuning.
+
+Ini merupakan nama warna yang didefinisikan di CSS namun tidak didefinisikan dalam HTML 4.01.

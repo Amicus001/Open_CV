@@ -1,0 +1,52 @@
+La magnétogaine est la région de l'espace située entre la magnétopause et l'arc de choc de la magnétosphère d'une planète. Le champ magnétique régulièrement organisé généré par la planète devient faible et irrégulier dans la magnétogaine en raison de son interaction avec le vent solaire entrant, et est incapable de dévier complètement les particules fortement chargées. La densité des particules dans cette région est considérablement inférieure à celle trouvée au-delà de l'arc de choc, mais supérieure à celle de la magnétopause, et peut être considérée comme un état transitoire.
+
+
+Schéma de la magnétosphère terrestre, montrant la position relative de la magnétogaine (magnetosheath).
+La recherche scientifique sur la nature exacte de la magnétogaine a été limitée en raison d'une idée fausse, qui a longtemps existé, selon laquelle il s'agissait d'un simple sous-produit de l'interaction entre l'arc de choc et la magnétopause et n'avait pas de propriétés intrinsèquement importantes. Des études récentes indiquent toutefois que la magnétogaine est une région dynamique de flux de plasma turbulent qui peut jouer un rôle important dans la structure de l'arc de choc et de la magnétopause, et pourrait aider à dicter le flux de particules énergétiques à travers ces frontières.
+
+La magnétogaine de la Terre occupe typiquement la région de l’espace située à environ 10 rayons terrestres du côté de la Terre qui fait face au vent solaire (côté faisant face au Soleil) et s’étend considérablement plus loin du côté opposé au vent solaire en raison de la pression du vent solaire. L'emplacement et la largeur exacts de la magnétogaine dépendent de variables telles que l'activité solaire.
+
+Le champ magnétique terrestre, aussi appelé bouclier terrestre, est un champ magnétique présent dans un vaste espace autour de la Terre (de manière non uniforme du fait de son interaction avec le vent solaire) ainsi que dans la croûte et le manteau. Il a son origine dans le noyau externe, par un mécanisme de dynamo auto-excitée.
+
+Âge et origine
+Article détaillé : Dynamo terrestre.
+Selon les études de John Tarduno de l'université de Rochester (États-Unis), la Terre possédait déjà un champ magnétique il y a 3,45 milliards d'années1,2. À cette époque l'intensité du champ était de 50 à 70 % de sa valeur actuelle. Mais dès 3,2 Ga le champ terrestre était aussi intense qu'aujourd'hui3,4. Il a été proposé en 2014 que le champ magnétique terrestre existait déjà il y a 4,2 milliards d'années mais la validité de ces études, fondées sur la magnétisation de cristaux anciens de zircon, a été remise en cause en 20205.
+
+Le champ magnétique terrestre est généré par des courants électriques internes, ces courants étant eux-mêmes entretenus par les mouvements de convection du noyau externe, constitué de métal liquide (essentiellement Fe et Ni). Ce noyau externe fonctionne comme une dynamo auto-excitée (on dit aussi auto-entretenue), c'est-à-dire que le champ magnétique est à l'origine des courants électriques qui eux-mêmes engendrent le champ (imbrication de l'induction électromagnétique et de la loi de Biot et Savart). La convection est sans doute solutale (due à des gradients de concentration) plutôt que thermique (due à des gradients de température), et intimement liée à la croissance du noyau interne : le fer-nickel solide étant moins riche en éléments dissous que le liquide, la cristallisation de ce liquide enrichit la base du noyau externe en éléments dissous ; ces éléments étant plus légers que Fe et Ni, le liquide métallique profond tend à remonter sous l'effet de la poussée d'Archimède6,7,8.
+
+Le noyau interne est cependant trop jeune pour que le mécanisme ci-dessus ait pu fonctionner il y a plus de 1,5 Ga. Un autre processus de convection solutale aurait alors été l'exsolution d'oxyde de magnésium MgO, due au refroidissement progressif du noyau (alors entièrement liquide)9. MgO est en effet soluble dans le fer liquide à très haute température10. Une quantité importante de MgO a pu être dissoute dans le noyau lors de l'accrétion de la Terre, et notamment lors du gigantesque impact à l'origine de la Lune11.
+
+Description
+
+Le champ magnétique terrestre peut être vu comme celui d'un aimant droit.
+Le champ magnétique terrestre peut être comparé, en première approximation, à celui d'un aimant droit (ou d'un dipôle magnétique, ou d'une bobine plate parcourue par un courant électrique), de moment magnétique12 7,7 × 1022 A m2 en 2000. Le point central de cet aimant n'est pas exactement au centre de la Terre, il se trouve à quelques centaines de kilomètres du centre géométrique. Cette approximation ne doit pas faire oublier que le champ a des composantes multipolaires dont l'intensité, bien que beaucoup plus faible que la composante dipolaire, n'est pas négligeable, notamment lors d'une inversion du champ magnétique terrestre qui voit l'affaiblissement de l'intensité du dipôle si bien que les composantes non dipolaires deviennent prédominantes13.
+
+La théorie du potentiel décrit, à partir de l'équation de Laplace, qu'à cet aimant droit se superposent en second ordre un quadrupôle, au troisième ordre un octopôle, etc., jusqu'à l'infini. Cette décomposition dite en harmoniques sphériques admet des coefficients qui pondèrent l'importance à attribuer à chaque aimant. Le premier à avoir mesuré leur valeur est Gauss à partir d'un maillage d'observatoires magnétiques répartis autour de la Terre, puis d'en tirer des études statistiques.
+
+L'ensemble des lignes de champ magnétique de la Terre situées au-dessus de l'ionosphère, soit à plus de 1 000 km, est appelé magnétosphère. L'influence du champ magnétique terrestre se fait sentir à plusieurs dizaines de milliers de kilomètres.
+
+D'autres planètes du système solaire possèdent un champ magnétique : Mercure, Saturne, Uranus, Neptune et surtout Jupiter. Le Soleil lui-même en possède un.
+
+Bien que les aimants aient été connus depuis l'Antiquité, ce sont les Chinois qui, vers l'an 1000-1100 les utilisèrent pour s'orienter à l'aide de la boussole. La relation entre les aimants et le champ magnétique terrestre fut découverte en 1600, par William Gilbert, un physicien anglais et médecin de la reine Élisabeth Ire qui publie en 1600 de Magno Magnete Tellure (« Du Grand Aimant de la Terre »). Cette théorie est la première concernant des caractéristiques globales de la Terre, avant la gravité d'Isaac Newton. Il démontra comment une boussole placée à la surface d'une boule magnétisée (la « Terrella ») indique toujours le même point, comme elle le fait sur la Terre.
+
+Notion de pôle
+
+Le dipôle terrestre.
+Les pôles magnétiques sont conventionnellement définis comme étant les points de la surface terrestre où le champ magnétique est localement vertical, c'est-à-dire que l'inclinaison magnétique est de 90 degrés (voir ci-après les propriétés du champ magnétique pour une définition de l'inclinaison). Il y a un pôle magnétique par hémisphère, le nord et le suda. Au xie siècle, le polymathe Chinois Shen Kuo a été le premier à remarquer que les pôles géographiques et magnétiques ne se correspondaient pas. C'est en 1831, que les scientifiques ont constaté que les pôles magnétiques se déplaçaient.
+
+Le pôle Nord magnétique terrestre est en fait un pôle de magnétisme « sud ». Il s'agit d'une pure convention, due au choix d’appeler « nord » la pointe de l'aiguille de la boussole qui pointe ce pôle magnétique, qui n'est pas très éloigné du pôle Nord géographique. L'axe géomagnétique, passant par les deux pôles géomagnétiques, fait un angle de 11,5° par rapport à l'axe de rotation de la Terre ; c'est la déclinaison magnétique.
+
+Une mesure d'avril 2007 par le projet « Poly-Arctique » a situé le pôle Nord magnétique (Nm) à une latitude de 83,95° N et une longitude de 121,02° O (83° 57′ 00″ N, 121° 01′ 12″ O)14, soit à 673 km du pôle Nord géographique (Ng) et avec alors une vitesse moyenne de déplacement de 55 km/an15 contre 15 km/an avant 1990. Cette accélération fait que le pôle s'est déplacé autant, durant les 20 premières années du xxie siècle, que durant tout le xxe siècle.
+
+Depuis le milieu des années 1990, il se dirige du Canada (où il avait toujours été localisé depuis les premières mesures) vers la Sibérie sans que cette évolution soit comprise par la communauté scientifique16.
+
+À l'été 2010, il était à 550 km du pôle Nord géographique.
+
+L'accélération du déplacement se conjugue à un autre phénomène : les "secousses géomagnétiques", impulsions qui donnent localement un "coup d'accélérateur" au champ magnétique. Il s'en est produite une en 2016. Les services spécialisés américains ont ainsi été amenés à diffuser, en 2019, à une nouvelle version du World magnetic model, l'une des références en la matière.
+
+En septembre 2019, la longitude du pôle Nord magnétique était celle du méridien de Greenwich.
+
+En outre la position du pôle magnétique varie au cours de la journée, se déplaçant ainsi de plusieurs dizaines de km autour de sa position moyenne.
+
+Le pôle Sud magnétique, quant à lui, se trouve au large de la Terre Adélie, dans la mer d'Urville, à 65 °S et 138 °E.
+

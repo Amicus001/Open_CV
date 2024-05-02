@@ -1,0 +1,78 @@
+Kecerdasan buatan
+
+Halaman
+Pembicaraan
+Baca
+Sunting
+Sunting sumber
+Lihat riwayat
+
+Perkakas
+Dari Wikipedia bahasa Indonesia, ensiklopedia bebas
+
+Artikel ini membutuhkan rujukan tambahan agar kualitasnya dapat dipastikan. Mohon bantu kami mengembangkan artikel ini dengan cara menambahkan rujukan ke sumber tepercaya. Pernyataan tak bersumber bisa saja dipertentangkan dan dihapus.
+Cari sumber: "Kecerdasan buatan" – berita · surat kabar · buku · cendekiawan · JSTOR
+
+Robot ASIMO menggunakan pengindra dan algoritme kecerdasan buatan untuk menuruni tangga dan menghindari rintangan
+Kecerdasan buatan atau akal imitasi (Inggris: artificial intelligence, AI) adalah kecerdasan yang ditambahkan kepada suatu sistem yang bisa diatur dalam konteks ilmiah, AI juga didefinisikan sebagai kecerdasan entitas ilmiah. Andreas Kaplan dan Michael Haenlein mendefinisikan kecerdasan buatan sebagai “kemampuan sistem untuk menafsirkan data eksternal dengan benar, untuk belajar dari data tersebut, dan menggunakan pembelajaran tersebut guna mencapai tujuan dan tugas tertentu melalui adaptasi yang fleksibel”.[1] Sistem seperti ini umumnya dianggap komputer. Kecerdasan diciptakan dan dimasukkan ke dalam komputer agar dapat melakukan pekerjaan seperti yang dapat dilakukan manusia. Beberapa macam bidang yang menggunakan kecerdasan buatan antara lain sistem pakar, permainan komputer, logika kabur, jaringan saraf tiruan dan robotika. Secara teknis, kecerdasan buatan adalah model statistik yang digunakan untuk mengambil keputusan dengan menggeneralisir karakteristik dari suatu objek berbasis data yang kemudian dipasang di berbagai perangkat elektronik.
+
+Banyak hal yang kelihatannya sulit untuk kecerdasan manusia, tetapi untuk informatika relatif tidak bermasalah. Seperti contoh: mentransformasikan persamaan, menyelesaikan persamaan integral, atau membuat permainan catur. Di sisi lain, hal yang bagi manusia kelihatannya menuntut sedikit kecerdasan, sampai sekarang masih sulit untuk direalisasikan dalam Informatika. Seperti contoh: Pengenalan Objek/Muka, bermain sepak bola.
+
+Walaupun AI memiliki konotasi fiksi ilmiah yang kuat, AI membentuk cabang yang sangat penting pada ilmu komputer, berhubungan dengan perilaku, pembelajaran dan adaptasi yang cerdas dalam sebuah mesin. Penelitian dalam AI menyangkut pembuatan mesin dan program komputer untuk mengotomatisasikan tugas-tugas yang membutuhkan perilaku cerdas. Termasuk contohnya adalah pengendalian, perencanaan dan penjadwalan, kemampuan untuk menjawab diagnosa dan pertanyaan pelanggan, serta pengenalan tulisan tangan, suara dan wajah. Hal-hal seperti itu telah menjadi disiplin ilmu tersendiri, yang memusatkan perhatian pada penyediaan solusi masalah kehidupan yang nyata. Sistem AI sekarang ini sering digunakan dalam bidang ekonomi, sains, obat-obatan, teknik dan militer, seperti yang telah dibangun dalam beberapa aplikasi perangkat lunak komputer rumah dan video game.
+
+Kecerdasan buatan ini bukan hanya ingin mengerti apa itu sistem kecerdasan, tetapi juga mengkonstruksinya.
+
+Tidak ada definisi yang memuaskan untuk 'kecerdasan':
+
+kecerdasan: kemampuan untuk memperoleh pengetahuan dan menggunakannya
+atau kecerdasan yaitu apa yang diukur oleh sebuah 'Test Kecerdasan'
+Paham Pemikiran
+
+Bab atau bagian ini tidak memiliki referensi atau sumber tepercaya sehingga isinya tidak bisa dipastikan. Tolong bantu perbaiki artikel ini dengan menambahkan referensi yang layak. Bab atau bagian ini akan dihapus bila tidak tersedia referensi ke sumber tepercaya dalam bentuk catatan kaki atau pranala luar.
+Secara garis besar, AI terbagi ke dalam dua paham pemikiran yaitu AI Konvensional dan Kecerdasan Komputasional (CI, Computational Intelligence). AI konvensional kebanyakan melibatkan metode-metode yang sekarang diklasifiksikan sebagai pembelajaran mesin, yang ditandai dengan formalisme dan analisis statistik. Dikenal juga sebagai AI simbolis, AI logis, AI murni dan AI cara lama (GOFAI, Good Old Fashioned Artificial Intelligence). Metode-metodenya meliputi:
+
+Sistem pakar: menerapkan kapabilitas pertimbangan untuk mencapai kesimpulan. Sebuah sistem pakar dapat memproses sejumlah besar informasi yang diketahui dan menyediakan kesimpulan-kesimpulan berdasarkan pada informasi-informasi tersebut.
+Petimbangan berdasar kasus
+Jaringan Bayesian
+AI berdasar tingkah laku: metode modular pada pembentukan sistem AI secara manual
+Kecerdasan komputasional melibatkan pengembangan atau pembelajaran iteratif (misalnya penalaan parameter seperti dalam sistem koneksionis. Pembelajaran ini berdasarkan pada data empiris dan diasosiasikan dengan AI non-simbolis, AI yang tak teratur dan perhitungan lunak. Metode-metode pokoknya meliputi:
+
+Jaringan Saraf: sistem dengan kemampuan pengenalan pola yang sangat kuat
+Logika kabur: teknik-teknik untuk pertimbangan di bawah ketidakpastian, telah digunakan secara meluas dalam industri modern dan sistem kendali produk konsumen.
+Komputasi Evolusioner: menerapkan konsep-konsep yang terinspirasi secara biologis seperti populasi, mutasi dan Sintasan yang paling layak untuk menghasilkan pemecahan masalah yang lebih baik.
+Metode-metode ini terutama dibagi menjadi algoritme evolusioner (misalnya algoritme genetik) dan kecerdasan berkelompok (misalnya algoritme semut)
+
+Dengan sistem cerdas hibrid, percobaan-percobaan dibuat untuk menggabungkan kedua kelompok ini. Aturan inferensi pakar dapat dibangkitkan melalui jaringan saraf atau aturan produksi dari pembelajaran statistik seperti dalam ACT-R. Sebuah pendekatan baru yang menjanjikan disebutkan bahwa penguatan kecerdasan mencoba untuk mencapai kecerdasan buatan dalam proses pengembangan evolusioner sebagai efek samping dari penguatan kecerdasan manusia melalui teknologi.
+
+Sejarah kecerdasan buatan
+Artikel utama: Sejarah kecerdasan buatan
+Pada awal abad 17, René Descartes mengemukakan bahwa tubuh hewan bukanlah apa-apa melainkan hanya mesin-mesin yang rumit. Blaise Pascal menciptakan mesin penghitung digital mekanis pertama pada 1642. Pada 19, Charles Babbage dan Ada Lovelace bekerja pada mesin penghitung mekanis yang dapat diprogram.
+
+Bertrand Russell dan Alfred North Whitehead menerbitkan Principia Mathematica, yang merombak logika formal. Warren McCulloch dan Walter Pitts menerbitkan "Kalkulus Logis Gagasan yang tetap ada dalam Aktivitas " pada 1943 yang meletakkan fondasi untuk jaringan saraf.
+
+Tahun 1950-an adalah periode usaha aktif dalam AI. Program AI pertama yang bekerja ditulis pada 1951 untuk menjalankan mesin Ferranti Mark I di University of Manchester (UK): sebuah program permainan naskah yang ditulis oleh Christopher Strachey dan program permainan catur yang ditulis oleh Dietrich Prinz. John McCarthy membuat istilah "kecerdasan buatan " pada konferensi pertama yang disediakan untuk pokok persoalan ini, pada 1956. Dia juga menemukan bahasa pemrograman Lisp. Alan Turing memperkenalkan Uji Turing sebagai sebuah cara untuk mengoperasionalkan test perilaku cerdas. Joseph Weizenbaum membangun ELIZA, sebuah chatterbot yang menerapkan psikoterapi Rogerian. Kecerdasan buatan pertama di dunia muncul pada tahun 1956. Pada tahun tersebut, sebuah konferensi yang dikenal sebagai Konferensi Dartmouth diadakan di Dartmouth College di Amerika Serikat. Konferensi ini dianggap sebagai titik awal dari perkembangan kecerdasan buatan sebagai bidang penelitian yang mandiri.
+
+Selama tahun 1960-an dan 1970-an, Joel Moses mendemonstrasikan kekuatan pertimbangan simbolis untuk mengintegrasikan masalah di dalam program Macsyma, program berbasis pengetahuan yang sukses pertama kali dalam bidang matematika. Marvin Minsky dan Seymour Papert menerbitkan Perceptrons, yang mendemostrasikan batas jaringan saraf sederhana dan Alain Colmerauer mengembangkan bahasa komputer Prolog. Ted Shortliffe mendemonstrasikan kekuatan sistem berbasis aturan untuk representasi pengetahuan dan inferensi dalam diagnosa dan terapi medis yang kadang kala disebut sebagai sistem pakar pertama. Hans Moravec mengembangkan kendaraan terkendali komputer pertama untuk mengatasi jalan berintang yang kusut secara mandiri.
+
+Pada tahun 1980-an, jaringan saraf digunakan secara meluas dengan algoritme perambatan balik, pertama kali diterangkan oleh Paul John Werbos pada 1974. Pada tahun 1982, para ahli fisika seperti Hopfield menggunakan teknik-teknik statistika untuk menganalisis sifat-sifat penyimpanan dan optimasi pada jaringan saraf. Para ahli psikologi, David Rumelhart dan Geoff Hinton, melanjutkan penelitian mengenai model jaringan saraf pada memori. Pada tahun 1985-an sedikitnya empat kelompok riset menemukan kembali algoritme pembelajaran propagansi balik. Algoritme ini berhasil diimplementasikan ke dalam ilmu komputer dan psikologi. Tahun 1990-an ditandai perolehan besar dalam berbagai bidang AI dan demonstrasi berbagai macam aplikasi. Lebih khusus Deep Blue, sebuah komputer permainan catur, mengalahkan Garry Kasparov dalam sebuah pertandingan 6 game yang terkenal pada tahun 1997. DARPA menyatakan bahwa biaya yang disimpan melalui penerapan metode AI untuk unit penjadwalan dalam Perang Teluk pertama telah mengganti seluruh investasi dalam penelitian AI sejak tahun 1950 pada pemerintah AS.
+
+Tantangan Hebat DARPA, yang dimulai pada 2004 dan berlanjut hingga hari ini, adalah sebuah pacuan untuk hadiah $2 juta di mana kendaraan dikemudikan sendiri tanpa komunikasi dengan manusia, menggunakan GPS, komputer dan susunan sensor yang canggih, melintasi beberapa ratus mil daerah gurun yang menantang.
+
+Filosofi
+Artikel utama: Filosofi kecerdasan buatan
+Perdebatan tentang AI yang kuat dengan AI yang lemah masih menjadi topik hangat di antara filosof AI. Hal ini melibatkan filsafat budi dan masalah budi-tubuh. Roger Penrose dalam bukunya The Emperor's New Mind dan John Searle dengan eksperimen pemikiran "ruang China" berargumen bahwa kesadaran sejati tidak dapat dicapai oleh sistem logis formal, sementara Douglas Hofstadter dalam Gödel, Escher, Bach dan Daniel Dennett dalam Consciousness Explained memperlihatkan dukungannya atas fungsionalisme. Dalam pendapat banyak pendukung AI yang kuat, kesadaran buatan dianggap sebagai Cawan Suci kecerdasan buatan.
+
+Fiksi sains
+
+Bab atau bagian ini tidak memiliki referensi atau sumber tepercaya sehingga isinya tidak bisa dipastikan. Tolong bantu perbaiki artikel ini dengan menambahkan referensi yang layak. Bab atau bagian ini akan dihapus bila tidak tersedia referensi ke sumber tepercaya dalam bentuk catatan kaki atau pranala luar.
+Dalam fiksi sains, AI umumnya dilukiskan sebagai kekuatan masa depan yang akan mencoba menggulingkan otoritas manusia seperti dalam HAL 9000, Skynet, Colossus and The Matrix atau sebagai penyerupaan manusia untuk memberikan layanan seperti C-3PO, Data, the Bicentennial Man, the Mechas dalam A.I. atau Sonny dalam I, Robot. Sifat dominasi dunia AI yang tak dapat dielakkan, kadang-kadang disebut "the Singularity", juga dibantah oleh beberapa penulis sains seperti Isaac Asimov, Vernor Vinge dan Kevin Warwick. Dalam pekerjaan seperti manga Ghost in the Shell-nya orang Jepang, keberadaan mesin cerdas mempersoalkan definisi hidup sebagai organisme lebih dari sekadar kategori entitas mandiri yang lebih luas, membangun konsep kecerdasan sistemik yang bergagasan.
+
+Seri televisi BBC Blake's 7 menonjolkan sejumlah komputer cerdas, termasuk Zen (Blake's 7), komputer kontrol pesawat bintang Liberator (Blake's 7); Orac, superkomputer lanjut tingkat tinggi dalam kotak perspex portabel yang mempunyai kemampuan memikirkan dan bahkan memprediksikan masa depan; dan Slave, komputer pada pesawat bintang Scorpio.
+
+Tujuan Penggunaan
+
+Bab atau bagian ini tidak memiliki referensi atau sumber tepercaya sehingga isinya tidak bisa dipastikan. Tolong bantu perbaiki artikel ini dengan menambahkan referensi yang layak. Bab atau bagian ini akan dihapus bila tidak tersedia referensi ke sumber tepercaya dalam bentuk catatan kaki atau pranala luar.
+Saat ini Artificial Intelligence (AI) sudah ada dalam aktivitas sehari-hari manusia, mungkin kita tidak menyadarinya. Seperti toko online yang menggunakan Artificial Intelligence (AI) untuk merekomendasikan suatu produk kepada kita dan untuk memahami semua ucapan kita saat menggunakan aplikasi asisten virtual seperti Amazon Alexa dan Apple Siri.
+
+Risiko
+Di seluruh dunia ada berbagai contoh negara (termasuk: Jerman, Amerika, Inggris, dan India) di mana penerapan kecerdasan buatan yang dianggap salah oleh pemerintah telah menimbulkan konsekuensi sosial yang dramatis di berbagai bidang seperti imigrasi, penegakan hukum, dan jaminan sosial.[2]

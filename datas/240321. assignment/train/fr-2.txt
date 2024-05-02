@@ -1,0 +1,102 @@
+Le statut de Wikipédia en tant que source de référence est un sujet de controverses, en particulier à cause de son système de rédaction ouvert à tous. L'audience grandissante de Wikipédia a conduit un grand nombre de personnes à formuler des avis critiques sur la fiabilité des informations présentées dans cette encyclopédie. Ces critiques étant récurrentes, une page spéciale de Wikipédia est consacrée aux réponses de participants à Wikipédia aux objections les plus fréquentesNote 29.
+
+Les principales critiques portent sur :
+
+l'anonymat des contributeurs ;
+l'absence de filtrage des contributeurs et de comité de validation ;
+les problèmes posés par la neutralité de point de vue ;
+la vulnérabilité face aux sabotages, « vandalismes » dans le jargon de Wikipédia75 ;
+la communauté des contributeurs.
+Les critiques de Wikipédia l'accusent d'incohérences, de partialité systémique et d'une forme d'anti-élitisme76, et d'avoir une politique favorisant trop le consensus dans son processus éditorial77. La fiabilité et la précision de Wikipédia sont aussi des questions débattues78. D'autres critiques portent essentiellement sur sa sensibilité au vandalisme et à l'ajout de fausses informations79, bien que des travaux aient suggéré que le vandalisme est généralement de courte durée80,70.
+
+Certaines critiques ne sont pas uniquement d'ordre général et peuvent également concerner des biais, des différences d'interprétation ou des questions d'éthique sur la pratique encyclopédique. Ainsi, parmi les biais les plus fréquemment cités se trouvent :
+
+le biais géographique : lorsqu'une majorité de contributeurs sont d'un groupe ethnique, national ou régional donné, certains articles peuvent être traités inconsciemment à travers un prisme unique ;
+le biais linguistique : en dépit du grand nombre de langues présentes sur l'encyclopédie, il y a parfois une décorrélation entre le nombre d'articles disponibles et celui de locuteurs, ainsi qu'une différence qualitative comparativement aux articles anglophones ;
+le biais de genre : bien qu'il y ait débat sur les raisons de la qualité du traitement réservé aux sujets féminins, on constate que les articles consacrés aux femmes sont moins fréquents et souvent moins fournis que ceux consacrés à leurs homologues masculins.
+Depuis les débuts de l'encyclopédie, différentes controverses ont également émaillé sa réputation aux yeux des spécialistes ou de l'opinion publique, notamment à la suite de cas de désinformation ou de diffamation avérés. L'un des cas les plus médiatisés fut la prise de contrôle de l'édition croate de Wikipédia par des révisionnistes d'extrême droite entre 2011 et 2021, ce qui mena à de vives critiques à l'encontre de la Fondation Wikimédia pour son manque d'action.
+
+D'autres critiques se révèlent plutôt positives. Ainsi, en juin 2009, le philosophe français Bernard Stiegler estime que Wikipédia, « passage obligé pour tout utilisateur d'Internet », est un « exemple frappant d'économie de la contribution » et que l'encyclopédie « a conçu un système d'intelligence collective en réseau »81.
+
+Des études ont été menées sur la qualité du contenu proposée par Wikipédia, et des comparaisons effectuées avec d'autres encyclopédies. Ces évaluations fournissent généralement des conclusions positives pour Wikipédia, mais ces résultats font aussi l'objet de critiques82.
+
+Aspects techniques
+Logiciel
+Article détaillé : MediaWiki.
+Wikipédia et ses projets parallèles sont des wikis libres. Le premier wiki est créé en 1995 par Ward Cunningham, qui l'appelle WikiWikiWebNote 30. Un wiki est un site web dynamique, dont les visiteurs autorisés peuvent modifier les pages qu'ils lisent avec leur navigateur web. Sur Wikipédia, par exemple, la syntaxe utilisée pour modifier une page est beaucoup plus simple que celle du Hypertext Markup Language, et elle est conçue avec l'objectif de permettre un apprentissage rapide.
+
+Le fonctionnement de Wikipédia est assuré par le logiciel libre MediaWiki, une plate-forme wiki adaptée à Wikipédia, écrite en PHP et utilisant une base de données MySQL. MediaWiki est sous licence GNU GPL et est en 2010 utilisé par tous les projets Wikimedia ainsi que par de nombreux autres sites wikis. À l'origine, Wikipédia utilisait le logiciel UseModWiki, développé par Clifford Adams en Perl, et requérant l'usage de la camel case pour la création de liens entre les articles. À partir de janvier 2002, la version en anglais de Wikipédia utilise un logiciel développé par Magnus Manske, écrit en PHP — les versions dans les autres langues étant restées sous le logiciel UseModWiki. À partir de l'été 2002, tous les sites sont progressivement migrés vers MediaWiki.
+
+Les informations contenues dans Wikipédia, toutes langues confondues, sont conservées dans une base de données et peuvent être téléchargéesNote 31.
+
+Serveurs
+
+Organisation des serveurs de Wikipédia en trois couches. Plusieurs serveurs portent les noms d'encyclopédistes.
+Le succès croissant de Wikipédia nécessite l'emploi d'un grand nombre de serveurs informatiques qui fonctionnent tous avec un système d'exploitation GNU/Linux (principalement Ubuntu)83. Ces installations sont présentes à Tampa en Floride, à Amsterdam aux Pays-Bas, et dans le site sud-coréen d'hébergement de Yahoo! qui accueille 23 serveurs[Quand ?] de la Wikimedia Foundation.
+
+Les serveurs sont organisés en trois couches :
+
+des machines munies de caches Squid, attendent les demandes de pages et d'images ;
+des machines munies de serveurs Apache préparent les pages à la demande, en fonction des données présentes dans la base de données ;
+une base de données maître et des bases de données esclaves stockent les données ; jusqu'en décembre 2012, elles fonctionnent avec MySQL. Depuis début 2013, la fondation a basculé sur la scission MariaDB84.
+Plusieurs sites web, comme GangliaNote 32, permettent de consulter diverses informations sur le fonctionnement des serveurs, notamment la charge des processeurs, la mémoire occupée…
+
+L'architecture des serveurs change très fréquemment en raison des améliorations régulièrement apportées pour répondre au très fort trafic engendré par la consultation de Wikipédia. Cet aspect de Wikipédia est géré par le personnel technique de la Wikimedia FoundationNote 33.
+
+Wikimedia Foundation et associations locales
+La Wikimedia Foundation possède les différentes marques (Wikipedia, Wikimedia…), les serveurs, les sites web, et agit comme hébergeur web.
+
+Des associations nationales, ayant pour but de promouvoir Wikipédia et le libre partage des connaissances, existent dans plusieurs pays. Elles reprennent généralement l'intitulé « Wikimedia » (Wikimédia Belgique, Wikimédia FranceNote 34, Wikimédia SuisseNote 35, etc.). Ces associations sont reconnues comme associations locales par la Wikimedia Foundation, mais n'y sont pas juridiquement liées, et n'ont aucune responsabilité sur le contenu de Wikipédia. Elles sont généralement désignées comme le chapter (chapitre) pour un pays donné. Des associations de ce type sont présentes au Royaume-Uni, en Allemagne, en Argentine, en Australie, en Autriche, en France, à Hong Kong, en Israël, en Italie, aux Pays-Bas, en Pologne, en Tchéquie, en Russie, en Serbie, en Suède, en Suisse et à Taïwan85.
+
+Les différentes communautés linguistiques et la Fondation Wikimédia s'accordent pour publier Wikipédia et ses projets frères sans recourir à un financement publicitaire[réf. nécessaire]. Soutenue uniquement par des dons des lecteurs, de mécènes et de fondations, la Wikimedia Foundation emploie une trentaine de personnesNote 36 (en septembre 2014, 213 noms constituent l'équipe Wikimédia86), principalement des techniciens gérant les serveurs hébergeant les différents sites. Pour l'année fiscale 2007-2008, elle a reçu 6,4 millions de dollars USNote 37 de dons.
+
+Influence
+
+Place de Wikipédia dans le World Wide Web en 2007.
+Impact médiatique
+Sur Internet
+Selon ComScore, Wikipédia a acquis une influence mondiale87. Selon ComScore et Alexa (Internet), Wikipédia figure depuis 2007 parmi les dix sites les plus visités dans le monde, et c'est le seul site non-commercial de la liste88.
+
+La croissance de Wikipédia a été favorisée par son classement dans les résultats d'une recherche sur Google89, environ 50 % du trafic des moteurs de recherche vers Wikipédia provenant de Google90, dont une grande partie est liée à la recherche universitaire91.
+
+Selon Guillaume Sire, maître de conférences en science de l'information à l'université de Toulouse, Google remonte systématiquement Wikipédia en premier sur ses résultats de recherche, d'une part car le contenu gratuit lui est préférable et d'autre part car les hyperliens vers d'autres sites internets y sont proscrits. Ainsi, pour l'algorithme de Google, Wikipédia ne redistribue pas l'autorité (la quantité de liens hypertextes étant un facteur essentiel pour apparaître dans les premiers résultats du moteur de recherche), limite la personnalisation de la recherche et tend à l'égaliser92.
+
+En avril 2007, le Pew Internet and American Life Project a constaté que le tiers des internautes américains consultaient Wikipédia93. En octobre 2006, le site a été estimé à une valeur de marché hypothétique de 580 millions de dollars américains s'il y avait des publicités94.
+
+En juillet 2007, Wikipédia a fait l'objet d'un documentaire de 30 minutes sur la BBC Radio 495, qui affirmait que « Wikipédia » était devenu un terme connu par tout le monde, au même titre que « Google », « Facebook » et « YouTube ». Le cinéaste néerlandais IJsbrand van Veelen a créé un documentaire télévisé de 45 minutes en avril 2008, The Truth According to Wikipedia96.
+
+Dans les pays pauvres, là où le livre est rare, l'abonnement internet hors de prix97, Wikipédia est massivement utilisé par les étudiants, ainsi que comme produit d'appel par les opérateurs98.
+
+Dans un communiqué de presse du 10 novembre 2009, Wikimedia Foundation annonce recevoir plus de 320 millions de visiteurs par mois pour Wikipédia et ses projets frères, d'après comScore Media Metrix99.
+
+Par rapport aux autres encyclopédies en ligne
+Articles détaillés : Encyclopédie en ligne et Liste d'encyclopédies en ligne.
+De nombreux projets d'encyclopédie existent — ou ont déjà existé — sur Internet. Certains, tels que la Stanford Encyclopedia of PhilosophyNote 38 ou la défunte Nupedia, ont adopté une politique éditoriale traditionnelle, avec par exemple un seul auteur par article. La forte fréquentation de Wikipédia, combinée aux critiques sur son principe de fonctionnement, ont également poussé au développement de projets concurrents. Citizendium est par exemple une encyclopédie en ligne en anglais dirigée par Larry Sanger et publiée sous licence libre. Elle se distingue notamment par l'obligation pour les rédacteurs d'indiquer leur nom et de préciser leurs diplômes. Le 5 décembre 2009, Citizendium propose 12 790 articles, dont 121 ont été approuvés par son système de sélection. À titre de comparaison et à la même date, Wikipédia en anglais propose 3 116 306 articles, dont 2 710 sont présentés comme articles de qualité (featured articles).
+
+L'exemple de Wikipédia a aussi suscité la création de projets plus spécialisés, comme l'encyclopédie thématique Memory Alpha, consacrée à l'univers de Star Trek, ou le site parodique Désencyclopédie. Également inspirées de Wikipédia100, Wikimini et Vikidia offrent un dessein pédagogique à ces nouveaux wikis en proposant aux enfants et adolescents de construire leur propre encyclopédie en ligne101. D'autres, tels que Susning et l'Enciclopedia Libre Universal en Español, sont des wikis dans lesquels les articles sont écrits par divers collaborateurs sans processus formel de révision. Conservapedia est une encyclopédie collaborative en ligne en anglais, conservatrice et créationniste, construite en réaction à la neutralité de point de vue de Wikipédia en anglais, jugée trop « gauchiste » » et « liberal » (au sens américain du terme)102. Le projet Wikipédia a aussi influencé la création d'une encyclopédie d'extrême droite qui se dit « encyclopédie alternative », Metapedia, créée le 26 octobre 2006 en suédois, puis son pendant slave, Wikislavia. Metapedia existe en suédois, en anglais, en hongrois, en espagnol, en français, en slovaque, en portugais, en tchèque, en roumain, en allemand, en estonien, en norvégien, en croate, en danois, en néerlandais et en grec. Wikislavia existe en russe, en une langue appelée « sibérien », en tchakavien (croate), en kaïkavien (croate), en russe latinisé, en « don-cosaque », en panslavon, en moldave[Quoi ?] [réf. nécessaire] et en ukrainien.
+
+Influencées par le positionnement de Wikipédia sur Internet, les éditions Larousse ont ouvert en mai 2008 leur encyclopédie en ligne à un accès public et gratuit, et développé un espace consacré à des articles rédigés par les internautes103. L'Encyclopædia Universalis propose aussi une version consultable en ligne, sur un modèle payant par abonnement et reposant sur l'érudition de ses auteurs assumant un parti pris éclairé dans la rédaction des articles. En octobre 2009, un comparatif du magazine Clubic, portant sur six encyclopédies en ligne francophones, concluait à la prédominance de Wikipédia dans l'exhaustivité et l'actualisation de ses informations, et d'Universalis dans la pertinence. L'encyclopédie Larousse était perçue comme un compromis viable, mais cumulant aussi les défauts des deux autres modèles104.
+
+En Chine, le moteur de recherche Baidu a ouvert l'encyclopédie en ligne Baidu Baike le 20 avril 2006. Le contenu, 1,7 million d'articles en juillet 2009, est rédigé par les internautes sinophones qui cèdent leurs droits d'auteur à Baidu. Baike.com est une autre encyclopédie en ligne en chinois : reposant sur une technologie wiki, elle contient, en septembre 2009, 3,23 millions d'articles placés sous copyright. Des systèmes de contrôle assurent sur ces deux sites que des informations jugées inappropriées par le gouvernement de la république populaire de Chine ne sont pas publiées. À titre de comparaison, Wikipédia en chinois contient 270 000 articles en septembre 2009, et son site web a été fréquemment bloqué en Chine, notamment parce qu'elle présentait des articles sur des sujets sensibles comme les manifestations de la place Tian'anmen, le Falun Gong, ou le dalaï-lama.[réf. nécessaire]
+
+Influence culturelle
+Accueil partagé des médias
+Dans une foule assistant à un discours politique, un individu brandit une pancarte mettant en doute l'assertion de l'homme politique et demandant une référence
+Une bande dessinée de xkcd intitulée Protestataire wikipédien.
+Wikipédia est devenue un sujet d'actualité, de débat et de satire dans de nombreux pays. Certaines sources médiatiques font sa satire en insistant sur le manque de fiabilité de Wikipédia, comme le journal satirique The Onion105. D'autres critiquent le fait que tout le monde peut modifier Wikipédia, comme dans un épisode de la série télévisée The Office, où Michael Scott déclare que « Wikipédia est la meilleure chose de tous les temps. N'importe qui dans le monde peut écrire n'importe quoi sur n'importe quel sujet. » Des émissions radiophoniques ou télévisées, comme le The Colbert Report, ont plusieurs fois incité les téléspectateurs à modifier les pages de Wikipédia, parfois pour y inclure des informations volontairement erronées ou fantaisistes. Inversement, l'illustration Protestataire wikipédien de xkcd s'amuse de l'obsession des Wikipédiens à fournir des sources à toutes les affirmations et dénonce la démagogie des politiques.
+
+Wikipédia source d'information
+De nombreux sites internet, comme les blogs, les sites officiels ou journalistiques, peuvent proposer des liens complémentaires vers des articles de Wikipédia pour approfondir un sujet.
+
+En 2015 puis 2017, un Londonien se sert de la base Wikipédia de façon ludique pour faire voyager virtuellement les internautes106,107.
+
+En 2017, le compositeur biélorusse Ales Tsurko réalise un album à partir d'articles Wikipédia108.
+
+Scientifique
+Wikipédia et le travail collaboratif qui la produit sont rapidement devenus un objet d'études de la part de chercheurs dont une partie s'est réunie dans un réseau dit Wikimedia Research Network ou travaille avec la Fondation Wikimédia ou les associations locales109.
+
+Deux études de 2009, traitant des relations entre les scientifiques et Wikipédia tendent à montrer que le sentiment des scientifiques vis-à-vis de Wikipédia est plutôt positif. La première étude est un sondage lancé par Wikimedia Foundation dans le but de savoir si la communauté scientifique serait favorable à des actions d'incitation à participer à Wikipédia110. Elle conclut que 91 % des scientifiques sondés sont favorables à Wikipédia.
+
+La seconde est une étude (conduite par l'institut de recherche STATS, l'université George Mason et la Society of Toxicology (SOT)) sur le sentiment d'experts en chimie vis-à-vis des médias en général111. Dans cette étude, 45 % des experts jugent que Wikipédia présente bien leur domaine, alors que ce pourcentage tombe à 15 % pour les médias généralistes, ce qui conduit les auteurs à conclure que ces « scientifiques ont plus foi en Wikipédia qu'en les médias nationaux imprimés ».
+
+Dans le monde universitaire français en sciences humaines et sociales, les citations de pages de Wikipédia sont en augmentation. Sur la période 2004-2018, 1 % des articles publiés sur la plateforme Cairn.info cite Wikipédia11

@@ -1,0 +1,127 @@
+L'effet corona, aussi appelé « effet couronne » ou « effet de couronne », est un phénomène de décharge électrique partielle entraînée par l'ionisation du milieu entourant un conducteur. Il apparaît quand le champ électrique dépasse une « valeur critique » (mais dont les conditions ne permettent pas la formation d'un arc). Il se manifeste par l'apparition de points lumineux bleuâtres (sur certaines aspérités métalliques1) ou lignes lumineuses ou parfois d'une longue « gaine lumineuse » qui se forme autour des câbles (conducteurs aériens le plus souvent) transportant du courant sous haute tension.
+
+Cet effet (rare aux niveaux de tension de moins de 200 kV2) n'est pas souhaitable sur les lignes électriques, mais est utilisé par l'industrie, entre autres, dans les lampes à plasma.
+
+Le feu de Saint-Elme et les aigrettes lumineuses qui apparaissent parfois sur les pointes métalliques ou diverses aspérités (mâts, paratonnerres, pics montagneux…) à l'approche d'un gros orage sont des formes naturelles de ce phénomène.
+
+Histoire
+L'effet de couronne a intrigué les physiciens dès qu'on l'a constaté. Son nom provient du fait qu'il évoque l'aspect du halo lumineux périphérique au soleil observé lors des éclipses3. Il a fait l'objet de premières publications en 1915 par F.W. Peek qui a alors établi une première loi empirique exprimant le champ seuil d'apparition de cet effet4.
+
+La recherche s'est aussi intéressée aux vibrations de câbles induites par l'effet de couronne, à partir des années 19305, et en laboratoire haute-tension et sur la base d'observations et mesures faites in situ sur le réseau électrique industriel, puis on s'est intéressé au début des années 1970 à l'amplitude de ces vibrations, avant de chercher à mieux les expliquer, ce qui fut fait dans les années 19806, notamment grâce à un code de calcul produit par EDF7 pour analyser la formation des pertes, permettant « de suivre physiquement le mécanisme des pertes : entre autres performances, ce code permet de visualiser le mouvement des charges d’espace »3 et avec des conclusions largement acceptées, par exemple produites en 1986 par M.Farzaneh à l'Université Paul Sabatier de Toulouse8, de les simuler9,10 et, plutôt à partir des années 2000, de les modéliser11,12.
+
+Les physiciens ont d'abord montré que cet effet dépendait du champ électrique superficiel du conducteur, mais aussi de son diamètre, de son état de surface puis de la densité (et humidité) de l'air environnant3.
+
+Concernant les lignes électriques, le phénomène a surtout été étudié pour le courant alternatif. Certains auteurs plaident depuis les années 1990 pour des études sur les lignes haute ou très haute tension ou ultra-hautes tensions, en tension continue qui apparaissent dans certains pays (pour les transports longue-distance d'électricité)3.
+
+Mécanisme
+Au niveau macroscopique
+Une décharge de corona se produit lorsqu'un courant, continu ou alternatif, se crée entre deux électrodes portées à un haut potentiel et séparées par un fluide neutre, en général l'air, par ionisation de ce fluide. Un plasma est alors créé et les charges électriques se propagent en passant des ions aux molécules de gaz neutres.
+
+Lorsque le champ électrique en un point du fluide est suffisamment grand, le fluide s'ionise autour de ce point et devient conducteur. En particulier, si un objet chargé possède des pointes ou des coins (ex: angle de 90 degrés), le champ électrique y sera plus important qu'ailleurs (c'est le pouvoir des pointes), c'est là en général, que se produira une décharge de corona : le phénomène tendra à se stabiliser de lui-même puisque la région ionisée devenant conductrice, la pointe aura apparemment tendance à disparaître. Les particules chargées se dissipent alors sous l'effet de la force électrique et se neutralisent au contact d'un objet de charge inverse. Les décharges de corona se produisent donc en général entre une électrode de rayon de courbure faible (un défaut du conducteur formant une pointe par exemple) tel que le champ électrique à ses environs soit suffisamment important pour permettre la formation d'un plasma, et une autre de rayon de courbure important (une plaque métallique ou la terre).
+
+Une décharge de corona peut être positive ou négative selon la polarité de l'électrode de faible rayon de courbure. Si elle est positive, on parle de corona positif, sinon, de corona négatif.
+
+La différence de masse entre les électrons (négatifs) et les ions (positifs) fait que la physique de ces deux types de corona est radicalement différente. Par exemple, une décharge de corona produit de l'ozone (transforme le dioxygène O2 de l'air en ozone O3) quelle que soit sa polarité, mais un corona positif en produit beaucoup moins qu'un corona négatif[réf. nécessaire].
+
+Si la géométrie du conducteur et la valeur du champ sont telles que la région ionisée s'étend au lieu de se stabiliser, le courant peut finir par trouver un chemin jusqu’à l'électrode inverse, il se forme alors des étincelles ou un arc électrique.
+
+Au niveau microscopique
+Les décharges de corona, qu'elles soient positives ou négatives ont des mécanismes en commun :
+
+Un atome ou une molécule neutre du fluide environnant l'électrode est ionisé par un événement extérieur (par exemple par interaction avec un photon), un ion positif et un électron sont libérés.
+
+Ces deux particules étant de charges inverses, le champ électrique crée sur chacune d'elles une force électrique égale en norme mais de sens opposé et les sépare, empêchant leur recombinaison et leur apportant une énergie cinétique importante. Ceci initie le phénomène de claquage.
+L'électron étant de masse beaucoup plus faible que l'ion, il est fortement accéléré, et entre en collision inélastique avec des atomes neutres, ce qui tend à créer de nouvelles paires électrons/ions positifs, qui suivront le même processus. On parle d'effet d'avalanche.
+
+Des ions ainsi créés sont attirés par la seconde électrode et permettent ainsi l'établissement d'un courant.
+
+Propriétés électriques
+La tension nécessaire pour démarrer un effet couronne (en anglais : corona inception voltage, CIV) peut être calculée avec la loi de Peek (1929), formulée à partir de données empiriques4. Des articles subséquents fournissent des formules plus précises.
+
+Le courant entraîné par une décharge de corona peut se déterminer en intégrant la densité de courant à la surface du conducteur.
+
+La puissance dissipée est le produit de ce courant et de la tension entre les deux électrodes.
+
+Applications des décharges de corona
+Les décharges de corona ont de nombreuses applications commerciales et industrielles.
+
+Production d'ozone
+Filtrage de particules contenues dans l'air (système d'air climatisé)
+Destruction de particules organiques contenues dans l'atmosphère : pesticide, solvant…
+Traitement de surface de certains polymères
+Photocopieur, Imprimante laser
+Laser à azote
+Séparation électrostatique (de matières conductrices et non-conductrices)13
+Refroidissement de certains composants électroniques (la migration des particules ionisées génère un flux qui expulse l'air chaud)
+Problèmes liés aux décharges de corona
+Les décharges de corona peuvent
+
+produire des bruits acoustiques directement rayonnés par les conducteurs, clairement audibles (grésillement/bourdonnement) En France, la tension (et donc le champ électrique) est alternative (fréquence de 50 hertz) Le champ électrique passe donc par zéro 2 fois par oscillation, à raison de 50 oscillations par seconde.a. Le grésillement des lignes électriques correspond aux successions de microdécharges qui se produisent à chaque maximum, soit « 50 fois x 2 = 100 fois par seconde »14.
+perturber certaines fréquences radio électriques (radio et télévisuelles, avec des perturbations qui ne doivent pas être confondues avec une autre forme de perturbation des images de télévision, induite elle par les ondes réfléchies sur les lignes, par « écho »14), notamment près des lignes à haute tension selon un mécanisme qui a fait l'objet d'un code de simulation par EDF15 pour tenir compte des contraintes de passage sous l'égide du CISPR (Comité international spécial des perturbations radioélectriques) ;
+produire des vibrations (« le galop des lignes électriques »16) qui vont ajouter leurs effets à ceux des vibrations éoliennes des câbles aériens17 et accélérer le vieillissement des câbles, or, plus la surface d'un conducteur est dégradée, plus l'effet couronne sera important et plus le champ perturbateur sera élevé (le dépôt de particules métalliques ou végétales ou de poussières industrielles, « voire le suintement en surface de la graisse de toronnage » peuvent aggraver cet effet. L'augmentation de la pluviométrie attendue dans une partie de l'hémisphère nord dans le cadre du réchauffement climatique pourrait aussi augmenter le nombre d'heures de perte par effet couronne, chaque goutte d'eau déposée ou suspendue aux conducteurs multiplie le nombre d’aigrettes contribuant aux pertes par effet couronne3.)
+Ces 3 phénomènes apparaissent notamment sous la pluie18 ou par temps très humide « se mettent à vibrer à la fréquence naturelle du conducteur (...) par faible vent sur les lignes à haute tension lorsque des gouttes d'eau sont suspendues sous les conducteurs en condition de pluie, de neige mouiliée ou de brouillard intense. »12 ou de présence de gouttes d'eau suspendues sur le dessous d'un câble19; « la présence intermittente de la charge d'espace20,21,22 et du vent ionique situé à proximité immédiat des gouttes d'eau suspendues au conducteur sont les causes principales de ce phénomène »12, dont l'ampleur et la localisation vont dépendre de plusieurs paramètres (« valeur et polarité du champ électrique à la surface du conducteur, intensité des précipitations, vitesse du vent transversal »12 et température23).
+
+Ces phénomènes traduisent aussi :
+
+une perte de puissance et une usure accélérée de certaines composants de la ligne (conducteurs, pinces d'ancrages, supports, chaînes d'isolateurs). La vibration du câble associée à l'effet couronne « ne dépasse pas, en général une dizaine de centimètres et la fréquence est la fréquence naturelle de la portée » mais « peut conduire à la fatigue des conducteurs et leurs éléments de support »12 ;
+une pollution de l'air qui pourraient avoir localement un impact sur la santé d'animaux ou d'êtres humains vivant à proximité (l'ozone troposphérique est un polluant mais aussi un précurseur de plusieurs autres polluants de l'air).
+Les installations de transmission électrique sont conçues pour minimiser la formation des décharges de corona, qui sont particulièrement à éviter dans :
+
+les installations de transmission électrique où elles provoquent une perte d'énergie et du bruit ;
+la plupart des équipements électriques : transformateurs, machines électriques (aussi bien générateurs que moteurs), etc. où elles endommagent progressivement les isolants et détériorent ainsi prématurément des équipements ;
+toutes les situations nécessitant une tension importante mais où la production d'ozone doit être minimale.
+Réduction de l'effet corona sur les lignes électriques
+Cette réduction à des « valeurs raisonnablement acceptables » n'est généralement recherchée sur les lignes à haute tension que quand le niveau de tension de la ligne dépasse 345 kV. Outre une diminution des nuisances aux populations et à la faune ou flore riveraines, le coût économique des pertes en ligne par effet corona peut justifier à lui seul de prendre des mesures correctives, qui sont de deux types :
+
+utilisation de conducteurs de gros diamètre, pour limiter le champ électrique à la surface. Cette mesure est souvent inefficace, et rarement économiquement justifiée, car l'effet de peau rend souvent inefficace le choix de conducteurs de grosse section ;
+utilisation de faisceau de conducteurs (typiquement 2 conducteurs ou plus en 400 kV, 3 conducteurs ou plus en 500 kV) qui en plus de leur intérêt d'un point de vue thermique permettent de diminuer le champ superficiel sur les conducteurs.
+augmentation des distances entre phases et phase/terre. La disposition particulière des phases dans le cas des circuits doubles ou l'usage des faisceaux non symétriques peut également réduire l'effet de couronne.
+Le choix du nombre de conducteurs d'une ligne électrique se fait donc en fonction du courant à transiter, des conditions climatiques attendues, des effets de peau et corona, et bien sûr d'aspects économiques. Un moyen simple de limitation de l'effet corona sur les lignes électriques est de veiller à ce que le champ superficiel sur le conducteur ne dépasse pas une valeur d'environ 17 kV/cm.
+
+Réduction de l'effet corona dans les postes électriques
+Dans les postes électriques haute tension, les considérations précédentes sur les lignes restent valables. On a toutefois la possibilité d'utiliser pour les jeux de barres des conducteurs tubulaires de rayon extérieur important (80 à 220 mm) qui ont un champ surfacique faible. L'aspect de perturbations sur les fréquences radio devient critique, en raison de la présence éventuelle d'équipements électroniques sensibles. Les appareils HTB (sectionneur, disjoncteur à haute-tension, parafoudre…) doivent être conçus et testés pour limiter ces perturbations radio-électriques liées à l'effet corona : on utilise pour cela des pare-effluves avec de gros rayons de courbures pour limiter cet effet.
+
+Notes et références
+Notes
+En Amérique du Nord, la fréquence est de 60 hertz.
+Références
+M.Farzaneh, L.C. Phan, "Vibration of high voltage conductors induced by corona from water drops or hanging metal points", IEEE, Vol. PAS-103, No. 9, September 1984.
+L'effet de couronne [archive].
+Gary Claude (1998) Effet couronne sur les réseaux électriques aériens [archive], article publié dans Techniques de l’ingénieur, le 10 février 1998.
+F.W. Peek, Dielectric Phenomena in High Voltage Engineering, McGraw-Hill, 1929 (lire en ligne [archive]).
+E.W. Dillard, Transmission Line Vibration due to Sleet, by J.P. Den Hartog, AIEE Trans. pp. 1082-1083, Dec. 1932.
+M, Maaroufi, Vibrations induites par effet de couronne, Thèse de Doctorat, Université de Liège, Belgique 1989.
+Code de calcul EFCOR (EFfet CORona).
+M.Farzaneh, Contribution à l'étude des mécanismes de vibrations induites par effet de couronne, Thèse de Doctorat, l'Université Paul Sabatier de Toulouse, 1986.
+Pierre Demers, Simulation numérique des vibrations induites par effet de couronne sur les conducteurs à haute tension, Mémoire comme exigence partielle de la maîtrise en ingénierie université de Chicoutimi Canada, mai 1994.
+Mahin Derakhshanin, Simulations numériques des vibrations induites par effet de couronne sur un court conducteur soumis à une pluie artificielle, Mémoire comme exigence partielle de la maîtrise en ingénierie, université de Chicoutimi Canada, août 2001.
+Bendaoud Abdelber, Modélisation du champ électrique et de l'effet couronne dans les installations de haute tension, Thèse de Doctorat en Électrotechnique, Université Djillali liabes, Sidi Bel Abbés, Algérie, Novembre 2004.
+Gourbi, Abdelkader (2008) Mécanisme des vibrations induites par effet de couronne ; Université Djillali Liabes de Sidi bel Abbes - Magister 2008.
+Tilmatine, A., Flazi, S., Medles, K., Ramdani, Y., & Dascalescu, L. (2004). Séparation électrostatique: complément des procédés mécaniques de recyclage des déchets industriels. Journal of electrostatics, 61(1), 21-30.
+RTE ; Effet couronne et bruit éolien autour des lignes THT : deux phénomènes physiques [archive], Au-delà des lignes [archive], consulté 2015-01-16.
+Code de calcul ANALIG (ANAlyse des LIGnes).
+J.Michel Toussaint, "Le galop des lignes électriques Mesures en soufflerie et simulations", Travail de fin d'études, université de Liège, 1998).
+Sayah H, Brahami m, Bendaoud A & Rahli M (2004) "Vibrations éoliennes des câbles aériens", La 1re Conférence Nationale sur l’Électrotechnique et ses Applications, Sidi Bel-Abbès, Algérie, Mai 2004.
+M.Farzaneh, "Effects of the intensity of precipitation and transverse wind on the corona induced vibration of HV conductors", IEEE, Vol. 7, No. 2, April 1992.
+Akazaki M (1965), "Corona phenomena from water drop on smooth conductors under high direct voltage", IEEE, Janvier 1965.
+Carl Potvin, " Comportement et effet de la charge d'espace sur le mécanisme des vibrations induites par effet de couronne ", Mémoire comme exigence partielle de la maîtrise en ingénierie, université de Chicoutimi, Canada, mars 2000.
+Farzaneh M & Teisseyre Y (1988), "Mechanical vibration of HV conductors induced by corona: roles of the space charge and ionic wind", IEEE, VOL, 3, 3 July 1988.
+Farzaneh M & Phan LC(1985) "On the Role of the Space Charge Produced by Hanging Water Drops in the Mechanism of the Corona-Induced Vibration of H.V. Conductor", J. of electrostatics, Vol. 17, pp. 235-244.
+Myriam Hamel, "Influence de la variation de la température ambiante sur les vibrations induites par effet de couronne", Mémoire comme exigence partielle de La maîtrise en ingénierie, université de Chicoutimi Canada, août 1991.
+Voir aussi
+Caméras à effet corona [archive]
+
+Articles connexes
+Décharge partielle
+Feu de Saint-Elme
+Photographie Kirlian
+Bibliographie
+Bengrit, Malika (2002) "Les vibrations induites par effet couronne", Thèse de Magistère en Electrotechnique, Université Djillali liabes, Sidi Bel Abbés, Algérie
+Danze, J. M. (2009). L'ionisation de l’oxygene. Sk. Internet (16.08. 2007.) http://www [archive]. delvaux-danze. be/ioniation. htm.
+Gary, C (1993) "effet couronne sur les réseaux électriques aériens", Technique de l'ingénieur, D4440 pp. 1–25, juin 1993
+Ndiaye, Ibrahima (2003) " Initiation et développement des décharges couronnes sur une surface de glace", Mémoire comme exigence partielle de la maîtrise en ingénierie, université de Chicoutimi, Canada, mai 2003
+CGary C & Moreau M (1976), "L'effet de couronne en tension alternative", Éditions Eyrolles (Paris), pp. 17–33, 283–302.
+Li, Y. (1993) Contribution à l'étude de l'influence des décharges de couronne sur la perte de volume d'une aspérité de glace portée à un potentiel élevé [archive]. Chicoutimi: Université du Québec à Chicoutimi (PDF, 71 pages).
+Phan LC, Adachi T, Allaire M.A (1981) " Experimental Investigations of Corona Induced Vibration on High Voltage Conductors with Different Types of Supports", IEEE Trans, on Power App. & Syst, Vol. PAS-100, No. 4, pp.
+Sarma P, Janischewskyj W (1969), "Analysis of Corona Losses on DC Transmission Lines Part Il Bipolar Lines", IEEE, October 1969
+Vecchiarelli J (1997), "Aeolian vibration of a conductor with a Stockbridge-type damper", Thèse de Doctorat présentée à Université de Toronto, Canada.

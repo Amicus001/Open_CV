@@ -1,0 +1,41 @@
+La couronne solaire est la partie de l'atmosphère du Soleil située au-delà de la chromosphère et qui s'étend sur plusieurs millions de kilomètres en se diluant dans l'espace.
+
+Description
+La couronne solaire est la couche la plus externe de l'atmosphère du Soleil. Cette masse gazeuse s'étend sur près de dix millions de kilomètres (environ 14 fois le rayon du Soleil) au-dessus de la surface solaire (photosphère)1. Lors d'une éclipse totale de soleil, elle apparaît autour du disque lunaire noir comme un anneau lumineux au pourtour irrégulier2. Alors que la température du centre du soleil est de seize millions de kelvins3, elle est de l'ordre du million dans la couronne solaire qui est un plasma4. La température élevée de la couronne solaire a été, pour la première fois, mise en évidence en 1942 par Bengt Edlén, astrophysicien suédois, qui étudiait les raies spectrales observées dans l'atmosphère du soleil2,5.
+
+Propriétés physiques
+La température de la couronne solaire est extrêmement élevée : en contraste avec les 5 800 K de la surface solaire et les 7 000 K de la chromosphère (une fine couche qui sépare la surface de la couronne), elle atteint deux millions de kelvins3,4. Ce phénomène d’élévation considérable de température à mesure que l'on s'éloigne de la surface du Soleil n'est pas totalement élucidé. Il s'explique cependant, en partie, par l'existence de jets de plasma appelés « spicules » et diffusés de la surface vers les hauteurs atmosphériques à une vitesse variant de 50 à 100 km/s6. La sonde Parker Solar Probe, lancée le 12 août 20187, depuis cap Canaveral, en Floride, par la NASA, et qui a pour mission d'observer l'astre solaire pendant sept ans, devrait permettre de lever le mystère8,9.
+
+Les mécanismes nécessaires pour chauffer la couronne solaire ont été longtemps attribués à la présence de boucles de champ magnétique, appelées « boucles coronales »10. Ces boucles passent par les pôles du Soleil et s'étirent à travers la couronne solaire. Elles ont la capacité de libérer de grandes quantités d’énergie, ce qui fait qu'elles jouent un certain rôle dans le chauffage de la couronne solaire10.
+
+Au début des années 2010, des observations obtenues par le satellite japonais Hinode démontrent que le rôle des boucles coronales dans le chauffage de la couronne solaire n'est pas déterminant10. Selon une publication d'astrophysiciens de l'université Columbia, le chauffage de la couronne solaire serait le résultat des ondes d’Alfvén, d'autres ondes électromagnétiques émises par le Soleil10.
+
+D'autre part, la couronne solaire est constituée de gaz fortement ionisé, ou plasma, d'une densité extrêmement faible (environ 1012 fois moins dense que la photosphère)4,11. Du fait de sa température élevée, ce plasma émet notamment du rayonnement dans l'extrême-ultraviolet.
+
+Cette couronne est divisée en deux couches : la couronne K et la couronne F12,11. La couronne K pour kontinuierliche Korona (couronne continue) tient sa luminosité de la diffusion Thomson. La couronne F pour couronne Fraunhofer est principalement éclairée selon le spectre des raies de Fraunhofer. Comme la luminosité de la couronne K diminue avec l'élongation, la luminosité de la couronne F devient dominante à partir d'une élongation d'environ quatre rayons solaires13. La lumière zodiacale est une manifestation aisément observable de la couronne F.
+
+Méthodes d'observation
+Dans la partie visible du spectre électromagnétique, la couronne ne peut être observée que lors d'éclipses totales de Soleil ou en utilisant un coronographe, car son rayonnement atteint à peine un millionième de celui de la photosphère dans ce domaine de longueur d'onde. Du fait de son émission dans l'extrême-ultraviolet (EUV) ; il est possible de l'observer en permanence avec des instruments embarqués sur satellites.
+
+La radioastronomie permet aussi l'étude de la couronne en mesurant les ondes radio qu'elle émet. Même si la relation Fréquence radio/altitude dans la couronne solaire n'est pas simple (dépendance à la densité électronique) : en première approximation, plus la fréquence d'observation est élevée, plus on est proche de la surface du Soleil. Des observations à quelques dizaines de MHz (domaine décamétrique) permettent d'observer la haute couronne, au-delà d'un demi-rayon solaire d'altitude (plus de 350 000 km). Dans la gamme de la centaine de MHz (domaine métrique), on observe des régions entre 0,1 et 0,4 rayon solaire d'altitude (de 70 000 à 280 000 km). En centimétrique, on est proche de la surface.
+
+Le radio-héliographe de Nançay permet, depuis sa dernière cure de jouvence en 1996, de faire directement (par simple transformée de Fourier 2D) des coefficients de Fourier (Visibilités) mesurés par les paires d'antennes intercorrélés, puis anamorphose, des cartes 2D de la couronne jusqu'à dix bandes de fréquence dans la gamme 150 à 450 MHz à une fréquence temporelle rapide : jusqu'au dixième de seconde par carte et par fréquence.
+
+Autres étoiles
+Les étoiles autres que le Soleil peuvent aussi développer une couronne. Souvent détectées grâce à des observations par satellite dans le domaine X, elles sont associées à la présence de champs magnétiques14. Pour certaines classes d'étoiles, en particulier les étoiles jeunes pour lesquelles la production d'un champ magnétique est particulièrement efficace (du fait de leur rotation rapide), l'émission coronale peut être beaucoup plus intense que sur le Soleil.
+
+Notes et références
+Trinh Xuan Thuan, Les voies de la lumière : physique et métaphysique du clair-obscur, Paris, Fayard, 2008, 967 p. (ISBN 978-2-07-035379-8 et 2070353796, OCLC 354079871, BNF 41344236), « La discontinuité de la lumière solaire ».
+David P. Stern et Guy Batteur, « La Couronne Solaire [archive] », sur www-spof.gsfc.nasa.gov, NASA, 19 décembre 2006 (consulté le 12 août 2018).
+Sylvie Vauclair, La Chanson du soleil : l'intimité de notre étoile dévoilée par ses vibrations, Paris, Albin Michel, coll. « Sciences », mai 2015 (1re éd. 2002), 216 p., e-book (ISBN 978-2-226-34221-8 et 2226342214, lire en ligne [archive]), « Quelle chaleur ! ».
+Futura-Sciences, « Couronne solaire [archive] », sur Futura, août 2018 (consulté le 12 août 2018).
+(en) David J. Ward, Seven Wonders of Space Phenomena, Minneapolis, Twenty-First Century Books, coll. « Seven wonders », 2011, 80 p. (ISBN 978-0-7613-5452-9 et 0761354522, OCLC 650019331), p. 11.
+Cécile Dumas, « Nouvelle explication pour le mystère de la couronne solaire [archive] », Sciences et Avenir, 11 janvier 2011 (consulté le 12 août 2018).
+Sophie Joussellin et Christophe Guirard, « Vidéo - Revivez le lancement de la sonde Parker qui va tenter de « toucher le Soleil » [archive] », RTL, 12 août 2018 (consulté le 12 août 2018).
+Joël Ignasse, « La sonde Parker Solar Probe décolle samedi 11 août pour une mission de 7 ans autour du soleil [archive] », Sciences et Avenir, 23 juillet 2018 (consulté le 12 août 2018).
+Le Monde, « La NASA repousse à dimanche le lancement de la sonde solaire Parker Solar Probe [archive] », 11 août 2018 (ISSN 1950-6244, consulté le 12 août 2018).
+M. Vaïl, « Soleil: le mystère du chauffage coronal en passe d'être résolu », Journal de la science, Espace,‎ octobre 2013 (lire en ligne [archive])
+E. Maurice, « La Couronne solaire », L'Astronomie, Harvard-Smithsonian Center for Astrophysics, vol. 77,‎ octobre 1963 (lire en ligne [archive], consulté le 13 août 2018).
+« Sous une bonne étoile ou une étoile nommée Soleil : III − Atmosphère [archive] », sur www.astrosurf.com
+(en) Hiroshi Kimura et Ingrid Mann, « Brightness of the solar F-corona », Earth Planets Space, no 50,‎ 1998, p. 493–499 (lire en ligne [archive])
+Tahar Amari et Pascal Démoulin, « Le magnétisme de la couronne solaire », La Recherche, Paris, vol. 24, no 252 « L'activité magnétique du Soleil »,‎ mars 1993, p. 268 (ISSN 0029-5671).
